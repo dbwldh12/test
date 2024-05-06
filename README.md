@@ -1,5 +1,5 @@
 <h1>컴퓨터 공학과 24학번 20살 유지오입니다!</h1>
-<h1> 잘 부탁드려요! <h1> <br><br>
+<h1> 잘 부탁드려요! <h1> <br>
 <h3 align="center"> 🤖 배우고 있는 언어 🤖 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=MySQL&logoColor=white"/>
