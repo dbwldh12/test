@@ -1,5 +1,5 @@
 <h1>컴퓨터 공학과 24학번 20살 유지오입니다!</h1>
-<h3> 잘 부탁드려요! <h3> <br><br>
+<h1> 잘 부탁드려요! <h1> <br><br>
 <h3 align="center"> 🤖 배우고 있는 언어 🤖 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -23,6 +23,6 @@
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vak-kas&show_icons=true&theme=onedark)
 
-<h1>기타</h1>
-<h3>말이 많아요</h3>
-<h3>넓고 얕은 인간관계를 좋아해요😻</h3>
+<h1>🥸기타🥸</h1>
+<h3>🙊말이 많아요🙊</h3>
+<h3>😻넓고 얕은 인간관계를 좋아해요😻</h3>
