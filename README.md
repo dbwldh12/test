@@ -27,6 +27,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwldh12&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwldh12&layout=compact)
+
 <h1>🥸기타🥸</h1>
 <h3>🙊말이 많아요🙊</h3>
 <h3>😻넓고 얕은 인간관계를 좋아해요😻</h3>
